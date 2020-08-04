@@ -10,8 +10,6 @@ import {
   LOGOUT,
 } from './types';
 
-const abc = a => console.log(a);
-
 // Load User
 export const loadUser = () => async dispatch => {
   try {
