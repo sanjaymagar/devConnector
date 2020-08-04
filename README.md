@@ -1,4 +1,4 @@
-# DevConnectr
+# DevConnector
 
 [Click here for live demo](https://luddite.herokuapp.com/)
 
